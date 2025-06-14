@@ -14,4 +14,4 @@ Seperti namanya, gambar telah mengalami distorsi. Setiap row bergeser 5 pixels l
 
 ## Solution
 
-check (./solver/solver.py](https://github.com/al9zmi/Distorted-Misc-CTF/blob/main/programsolve.py) for the solution
+check (https://github.com/al9zmi/Distorted-Misc-CTF/blob/main/programsolve.py) for the solution
